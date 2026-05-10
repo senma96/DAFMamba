@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Checkpoints and results
+checkpoint/
+checkpoints/
+results/
+results_*/
+swanlog/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# Data
+datasets/data/
+*.pth
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs_*.txt
